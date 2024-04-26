@@ -1,0 +1,325 @@
+{
+  "pizzas": [
+    {
+      "name": "Hawaiian Updated Typescript",
+      "toppings": [
+        "mushrooms",
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "BBQ Chicken",
+      "toppings": [
+        "bbq sauce",
+        "grilled chicken",
+        "red onions",
+        "cilantro",
+        "cheese"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "name": "Cheese Updateddd",
+      "toppings": [
+        "onions",
+        "mushrooms",
+        "sausage"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "6"
+    },
+    {
+      "name": "Meat Supreme",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "No",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Buffalo Chicken",
+      "toppings": [
+        "buffalo sauce",
+        "grilled chicken",
+        "red onions",
+        "cheese"
+      ],
+      "fanFavorite": "No",
+      "delivery": "Yes"
+    },
+    {
+      "id": "9",
+      "name": "Mushroom",
+      "toppings": [
+        "mushrooms",
+        "cheese",
+        "tomato sauce"
+      ],
+      "fanFavorite": "No",
+      "delivery": "Yes"
+    },
+    {
+      "id": "10",
+      "name": "Four Cheese",
+      "toppings": [
+        "mozzarella",
+        "cheddar",
+        "parmesan",
+        "gorgonzola",
+        "tomato sauce"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "11",
+      "name": "Margherita",
+      "toppings": [
+        "tomato",
+        "mozzarella",
+        "basil"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "12",
+      "name": "Cheese Veggie",
+      "toppings": [
+        "onions",
+        "olives",
+        "pineapple"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "13",
+      "name": "Artichoke",
+      "toppings": [
+        "artichokes",
+        "cheese",
+        "tomato sauce"
+      ],
+      "fanFavorite": "No",
+      "delivery": "Yes"
+    },
+    {
+      "id": "14",
+      "name": "Chicken Alfredo",
+      "toppings": [
+        "grilled chicken",
+        "alfredo sauce",
+        "spinach",
+        "cheese"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "15",
+      "name": "Greek",
+      "toppings": [
+        "olives",
+        "feta cheese",
+        "red onions",
+        "tomatoes",
+        "spinach"
+      ],
+      "fanFavorite": "No",
+      "delivery": "Yes"
+    },
+    {
+      "id": "16",
+      "name": "Taco",
+      "toppings": [
+        "ground beef",
+        "cheddar cheese",
+        "lettuce",
+        "tomatoes",
+        "sour cream",
+        "taco sauce"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "name": "Barbecue Pizza",
+      "toppings": [
+        "pepperoni",
+        "bacon"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "17"
+    },
+    {
+      "id": "18",
+      "name": "Spinach and Feta",
+      "toppings": [
+        "spinach",
+        "feta cheese",
+        "tomatoes",
+        "red onions",
+        "olives"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "name": "Bacon Chicken Ranch",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "19"
+    },
+    {
+      "name": "Veggie Delight",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "No",
+      "delivery": "Yes",
+      "id": "20"
+    },
+    {
+      "id": "76eb",
+      "name": "Cheese",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "eb78",
+      "name": "Cheese",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "7a89",
+      "name": "Cheese",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "ef8c",
+      "name": "Cheese",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "6ba0",
+      "name": "Cheese",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "id": "4c02",
+      "name": "Cheese",
+      "toppings": [
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes"
+    },
+    {
+      "name": "Cheese Added",
+      "toppings": [
+        "onions",
+        "sausage"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "a77b"
+    },
+    {
+      "name": "Peperoni Added",
+      "toppings": [
+        "mushrooms",
+        "onions",
+        "sausage"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "9c66"
+    },
+    {
+      "name": "Barbecue Pizza Added",
+      "toppings": [
+        "sausage",
+        "pepperoni",
+        "mushrooms",
+        "onions"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "28d0"
+    },
+    {
+      "name": "Sumit Special",
+      "toppings": [
+        "mushrooms",
+        "onions",
+        "olives"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "No",
+      "id": "607c"
+    },
+    {
+      "name": "Sumit Special ",
+      "toppings": [
+        "mushrooms",
+        "onions",
+        "pepperoni"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "No",
+      "id": "7919"
+    },
+    {
+      "name": "Sumit TypeScript",
+      "toppings": [
+        "pepperoni",
+        "mushrooms"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "9fc1"
+    },
+    {
+      "name": "Hawaiian Type Included",
+      "toppings": [
+        "pepperoni",
+        "mushrooms"
+      ],
+      "fanFavorite": "Yes",
+      "delivery": "Yes",
+      "id": "8932"
+    }
+  ]
+}
